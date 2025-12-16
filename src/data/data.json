@@ -22,7 +22,7 @@
   {
     "title": "Prettyfolio - Portfolio Templates",
     "url": "https://prettyfolio.com/",
-    "category": "portfolio"
+    "category": "design"
   },
   {
     "title": "unDraw - Sign In Illustrations",
@@ -42,7 +42,7 @@
   {
     "title": "Google Stitch",
     "url": "https://stitch.withgoogle.com/",
-    "category": "google tools"
+    "category": "ai"
   },
   {
     "title": "GSAP - Animation Library",
@@ -52,17 +52,17 @@
   {
     "title": "Godly Website Inspiration",
     "url": "https://godly.website/",
-    "category": "inspiration"
+    "category": "design"
   },
   {
     "title": "Kigen Design - Color Tool",
     "url": "https://kigen.design/color",
-    "category": "color tools"
+    "category": "developer tools"
   },
   {
     "title": "React Hot Toast - Notifications",
     "url": "https://react-hot-toast.com/",
-    "category": "react"
+    "category": "notifications"
   },
   {
     "title": "File Pizza - Peer-to-Peer File Sharing",
@@ -82,17 +82,12 @@
   {
     "title": "Bento Grids - UI Layouts",
     "url": "https://bentogrids.com/",
-    "category": "ui components"
+    "category": "design"
   },
   {
     "title": "OpenGraph Preview Tool",
     "url": "https://www.opengraph.xyz/url/https%3A%2F%2Fisakidev.netlify.app%2F",
     "category": "seo"
-  },
-  {
-    "title": "ConsultaLinux - Linux Q&A",
-    "url": "https://consultalinux.streamlit.app/",
-    "category": "linux"
   },
   {
     "title": "Material 3 Navigation Bar",
@@ -102,7 +97,7 @@
   {
     "title": "Convertio - File Converter",
     "url": "https://convertio.co/es/",
-    "category": "file conversion"
+    "category": "developer tools"
   },
   {
     "title": "useHooks - React Hooks Collection",
@@ -115,14 +110,9 @@
     "category": "database"
   },
   {
-    "title": "Notion - Cosmic Resources",
-    "url": "https://carmenansio.notion.site/Recursos-c-smicos-b76c220d51ec42239830a6c0ae39b2d9",
-    "category": "resources"
-  },
-  {
     "title": "Firebits - File Storage",
     "url": "https://firebits.io/users/moises.marquez/items/navigate/01FGQ2D7CJY8X8RG8XQ3GN2E58",
-    "category": "file storage"
+    "category": "learning"
   },
   {
     "title": "Rustlang ES - Spanish Community",
@@ -137,7 +127,7 @@
   {
     "title": "Guía Entrevistas de Programación",
     "url": "https://github.com/DevCaress/guia-entrevistas-de-programacion",
-    "category": "interview"
+    "category": "learning"
   },
   {
     "title": "Lucide - Icon Library",
@@ -167,7 +157,7 @@
   {
     "title": "AWS Amplify",
     "url": "https://aws.amazon.com/es/amplify/?trk=d50f6ab2-1bf2-48b0-8416-bcae7372a461&sc_channel=ps&ef_id=CjwKCAjwnqK1BhBvEiwAi7o0X5-yWXp4RZ7XsNQ4lcLYBLinLSF8UuVMwdfErWvRgVDaQBJe33RjlRoCik0QAvD_BwE:G:s&s_kwcid=AL!4422!3!677908132295!e!!g!!aws%20amplify!20682958065!160067596252&gclid=CjwKCAjwnqK1BhBvEiwAi7o0X5-yWXp4RZ7XsNQ4lcLYBLinLSF8UuVMwdfErWvRgVDaQBJe33RjlRoCik0QAvD_BwE",
-    "category": "hosting"
+    "category": "learning"
   },
   {
     "title": "Firebase - Google Cloud",
@@ -197,7 +187,7 @@
   {
     "title": "Patterns.dev - Design Patterns",
     "url": "https://www.patterns.dev",
-    "category": "design"
+    "category": "design patterns"
   },
   {
     "title": "Driver.js - Feature Tours",
@@ -220,13 +210,8 @@
     "category": "ui components"
   },
   {
-    "title": "Trello - Libraries Board",
-    "url": "https://trello.com/invite/b/6584fb4b2826dd1749b314c1/ATTIa4753f6dc4a829ca667806d02dfef96124380DEE/libraries",
-    "category": "productivity"
-  },
-  {
     "title": "TurboRepo - Monorepo Tool",
-    "url": "https://turbo.build/repo/docs/getting-started/installation",
+    "url": "https://turbo.build",
     "category": "developer tools"
   },
   {
@@ -252,27 +237,22 @@
   {
     "title": "Adobe Color",
     "url": "https://color.adobe.com/es/",
-    "category": "color tools"
+    "category": "developer tools"
   },
   {
-    "title": "Designstripe - Mockups",
-    "url": "https://designstripe.com/mockups/",
-    "category": "mockups"
-  },
-  {
-    "title": "Replit - 100 Days of Python",
-    "url": "https://replit.com/learn/100-days-of-python",
-    "category": "python"
+    "title": "Design Tools - Tools",
+    "url": "https://visual.app/tools",
+    "category": "developer tools"
   },
   {
     "title": "Developero - React Solid Example",
     "url": "https://developero.io/blog/react-solid-example",
-    "category": "react"
+    "category": "clean code"
   },
   {
     "title": "Medium - Clean Architecture in Node.js",
     "url": "https://medium.com/@ben.dev.io/clean-architecture-in-node-js-39c3358d46f3",
-    "category": "node.js"
+    "category": "architecture"
   },
   {
     "title": "DevDocs - API Documentation",
@@ -317,7 +297,7 @@
   {
     "title": "VisBug - Chrome Extension",
     "url": "https://chromewebstore.google.com/detail/visbug/cdockenadnadldjbbgcallicgledbeoc",
-    "category": "chrome extensions"
+    "category": "developer tools"
   },
   {
     "title": "IT Tools - Online Tools",
@@ -342,7 +322,7 @@
   {
     "title": "Shots.so - Screenshots",
     "url": "https://shots.so/",
-    "category": "screenshots"
+    "category": "developer tools"
   },
   {
     "title": "The Algorithms - Algorithm Collection",
@@ -357,12 +337,12 @@
   {
     "title": "BG Ibelick - Background Generator",
     "url": "https://bg.ibelick.com/",
-    "category": "backgrounds"
+    "category": "developer tools"
   },
   {
     "title": "SVG Repo - Free SVGs",
     "url": "https://www.svgrepo.com/",
-    "category": "svg"
+    "category": "icons"
   },
   {
     "title": "Iconfinder - Icon Search",
@@ -370,13 +350,13 @@
     "category": "icons"
   },
   {
-    "title": "Iconos8 - Heart Icons",
-    "url": "https://iconos8.es/icons/set/heart",
+    "title": "Icons8 - Icon Search",
+    "url": "https://iconos8.es",
     "category": "icons"
   },
   {
-    "title": "Flaticon - Heart Icons",
-    "url": "https://www.flaticon.es/resultados?word=heart",
+    "title": "Flaticon - Icon Search",
+    "url": "https://www.flaticon.es",
     "category": "icons"
   },
   {
@@ -387,22 +367,17 @@
   {
     "title": "UVCanvas - Online Canvas Tool",
     "url": "https://uvcanvas.com/",
-    "category": "design tools"
+    "category": "ui components"
   },
   {
     "title": "Responsively App - Responsive Testing",
     "url": "https://responsively.app/",
-    "category": "testing"
+    "category": "developer tools"
   },
   {
     "title": "TanStack - React Table & More",
     "url": "https://tanstack.com/",
     "category": "react"
-  },
-  {
-    "title": "Codewell - Navbar Challenge",
-    "url": "https://www.codewell.cc/challenges/javascript30-navbar--623f19001fa95910c7bf998e",
-    "category": "challenges"
   },
   {
     "title": "Clone Wars - GitHub Repo",
@@ -412,7 +387,7 @@
   {
     "title": "Frontend Checklist",
     "url": "https://frontendchecklist.io/",
-    "category": "checklist"
+    "category": "developer tools"
   },
   {
     "title": "Zod - TypeScript Schema Validation",
@@ -435,14 +410,9 @@
     "category": "ui components"
   },
   {
-    "title": "GitHub Profile README Generator",
-    "url": "https://github.com/rahuldkjain/github-profile-readme-generator?tab=readme-ov-file",
+    "title": "README Generator",
+    "url": "https://rahuldkjain.github.io/github-profile-readme-generator",
     "category": "github"
-  },
-  {
-    "title": "Rahul DK Jain - Portfolio",
-    "url": "https://rahuldkjain.github.io/",
-    "category": "portfolio"
   },
   {
     "title": "Component Party - Framework Comparison",
@@ -458,11 +428,6 @@
     "title": "Dev Resources",
     "url": "https://devresourc.es/",
     "category": "resources"
-  },
-  {
-    "title": "InspoVault - Design Inspiration",
-    "url": "https://www.inspovault.com/",
-    "category": "inspiration"
   },
   {
     "title": "Curated Design",
@@ -487,22 +452,22 @@
   {
     "title": "TailwindCSS Animations",
     "url": "https://tailwindcss-animations.vercel.app/",
-    "category": "css"
+    "category": "animation"
   },
   {
     "title": "Squoosh - Image Compression",
     "url": "https://squoosh.app/",
-    "category": "images"
+    "category": "developer tools"
   },
   {
     "title": "Tints.dev - Color Palettes",
     "url": "https://www.tints.dev/blue/3B82F6",
-    "category": "color tools"
+    "category": "developer tools"
   },
   {
     "title": "Loadership - Loader Configurator",
     "url": "https://www.loadership.com/#configurator",
-    "category": "ui components"
+    "category": "developer tools"
   },
   {
     "title": "Free Icons",
@@ -517,7 +482,7 @@
   {
     "title": "Vaul - Drawer UI",
     "url": "https://vaul.emilkowal.ski/",
-    "category": "ui components"
+    "category": "react"
   },
   {
     "title": "React Hook Form",
@@ -537,12 +502,7 @@
   {
     "title": "React Use Animations",
     "url": "https://react.useanimations.com/",
-    "category": "react"
-  },
-  {
-    "title": "Shell How - Shell Commands",
-    "url": "https://www.shell.how/",
-    "category": "linux"
+    "category": "animation"
   },
   {
     "title": "Skill Icons - GitHub",
@@ -552,17 +512,17 @@
   {
     "title": "Readme.so - README Editor",
     "url": "https://readme.so/es/editor",
-    "category": "documentation"
+    "category": "github"
   },
   {
     "title": "Shields.io - Badges",
     "url": "https://shields.io/",
-    "category": "badges"
+    "category": "github"
   },
   {
     "title": "Mockaroo - Mock Data Generator",
     "url": "https://www.mockaroo.com/",
-    "category": "data"
+    "category": "developer tools"
   },
   {
     "title": "TailwindFlex - Tailwind UI",
@@ -572,7 +532,7 @@
   {
     "title": "MoureDev - Spanish Dev Community",
     "url": "https://moure.dev/",
-    "category": "community"
+    "category": "resources"
   },
   {
     "title": "CSS Loaders",
@@ -582,7 +542,7 @@
   {
     "title": "CanInclude - HTML Feature Support",
     "url": "https://caninclude.glitch.me/",
-    "category": "html"
+    "category": "developer tools"
   },
   {
     "title": "Laws of UX",
@@ -592,12 +552,12 @@
   {
     "title": "Web Check - Website Checker",
     "url": "https://web-check.xyz/",
-    "category": "testing"
+    "category": "developer tools"
   },
   {
     "title": "Lychee CLI - Link Checker",
     "url": "https://lychee.cli.rs/#/?id=main",
-    "category": "cli tools"
+    "category": "developer tools"
   },
   {
     "title": "Programming Fonts",
@@ -617,7 +577,7 @@
   {
     "title": "Colors and Fonts",
     "url": "https://www.colorsandfonts.com/",
-    "category": "color tools"
+    "category": "developer tools"
   },
   {
     "title": "DaisyUI - Tailwind Components",
@@ -627,7 +587,7 @@
   {
     "title": "Awesome CSS Learning",
     "url": "https://github.com/micromata/awesome-css-learning?utm_content=buffer04c17&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
-    "category": "css"
+    "category": "learning"
   },
   {
     "title": "Tabler Icons",
@@ -635,9 +595,9 @@
     "category": "icons"
   },
   {
-    "title": "NextUI - React UI Library",
+    "title": "NextUI - UI Library",
     "url": "https://nextui.org/",
-    "category": "react"
+    "category": "ui components"
   },
   {
     "title": "FullStackOpen - Web Development Course",
@@ -645,19 +605,9 @@
     "category": "learning"
   },
   {
-    "title": "Selectors Info",
-    "url": "https://selectors.info/",
-    "category": "css"
-  },
-  {
-    "title": "Instagram - UI Inspiration",
-    "url": "https://www.instagram.com/p/Ct4eXQ8NNgp/?igshid=MTc4MmM1YmI2Ng%3D%3D&img_index=4",
-    "category": "inspiration"
-  },
-  {
     "title": "Sonner - Toast Notifications",
     "url": "https://sonner.emilkowal.ski/",
-    "category": "ui components"
+    "category": "notifications"
   },
   {
     "title": "GetAvataaars - Avatar Generator",
@@ -677,7 +627,7 @@
   {
     "title": "Catppuccin - Color Palette",
     "url": "https://catppuccin.com/",
-    "category": "color tools"
+    "category": "resources"
   },
   {
     "title": "MCP for Beginners - Microsoft",
@@ -702,12 +652,12 @@
   {
     "title": "web.dev - Learn CSS",
     "url": "https://web.dev/learn/css/",
-    "category": "css"
+    "category": "learning"
   },
   {
     "title": "Website Vice - Website Inspiration",
     "url": "https://websitevice.com",
-    "category": "inspiration"
+    "category": "design"
   },
   {
     "title": "Visualgo - Data Structure Visualizations",
@@ -722,7 +672,7 @@
   {
     "title": "Cloudflare Error Simulator",
     "url": "https://virt.moe/cferr/editor/",
-    "category": "simulator"
+    "category": "developer tools"
   },
   {
     "title": "VibeVoice - Text-to-Speech",
@@ -747,6 +697,16 @@
   {
     "title": "Python Course - Cisco NetAcad",
     "url": "https://www.netacad.com/es/courses/python-essentials-1",
-    "category": "python"
+    "category": "learning"
+  },
+  {
+    "title": "The Amazing Gentleman Programming Book",
+    "url": "https://the-amazing-gentleman-programming-book.vercel.app",
+    "category": "books"
+  },
+  {
+    "title": "The Simpsons - Free API ",
+    "url": "https://thesimpsonsapi.com/",
+    "category": "apis"
   }
 ]
