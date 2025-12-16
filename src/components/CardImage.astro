@@ -1,0 +1,25 @@
+---
+interface Props {
+  url: string;
+}
+
+const { url } = Astro.props;
+
+const ogImageUrl = await fetch(new URL("/api/og", Astro.request.url), {
+  method: "POST",
+  headers: {
+    "Content-Type": "application/json",
+  },
+  body: JSON.stringify({
+    url,
+  }),
+})
+  .then((res) => res.json())
+  .then((data) => data);
+---
+
+<img
+  src={ogImageUrl?.image}
+  alt={"title"}
+  class="size-20 rounded-xl object-cover opacity-90"
+/>

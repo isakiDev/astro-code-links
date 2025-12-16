@@ -1,0 +1,662 @@
+[
+  {
+    "title": "RunSQL - Online SQL Runner",
+    "url": "https://runsql.com/r",
+    "category": "database"
+  },
+  {
+    "title": "RapidAPI - API Learning Platform",
+    "url": "https://rapidapi.com/learn",
+    "category": "apis"
+  },
+  {
+    "title": "QuickType - JSON to Code Generator",
+    "url": "https://app.quicktype.io/",
+    "category": "developer tools"
+  },
+  {
+    "title": "Tailframes Accordion Components",
+    "url": "https://www.tailframes.com/components/accordion",
+    "category": "ui components"
+  },
+  {
+    "title": "Prettyfolio - Portfolio Templates",
+    "url": "https://prettyfolio.com/",
+    "category": "portfolio"
+  },
+  {
+    "title": "unDraw - Sign In Illustrations",
+    "url": "https://undraw.co/search/sign-in",
+    "category": "illustrations"
+  },
+  {
+    "title": "UploadThing - File Upload Service",
+    "url": "https://uploadthing.com/",
+    "category": "file upload"
+  },
+  {
+    "title": "SimStudioAI - Sim GitHub Repository",
+    "url": "https://github.com/simstudioai/sim",
+    "category": "ai"
+  },
+  {
+    "title": "Google Stitch",
+    "url": "https://stitch.withgoogle.com/",
+    "category": "google tools"
+  },
+  {
+    "title": "GSAP - Animation Library",
+    "url": "https://gsap.com/",
+    "category": "animation"
+  },
+  {
+    "title": "Godly Website Inspiration",
+    "url": "https://godly.website/",
+    "category": "inspiration"
+  },
+  {
+    "title": "Kigen Design - Color Tool",
+    "url": "https://kigen.design/color",
+    "category": "color tools"
+  },
+  {
+    "title": "React Hot Toast - Notifications",
+    "url": "https://react-hot-toast.com/",
+    "category": "react"
+  },
+  {
+    "title": "File Pizza - Peer-to-Peer File Sharing",
+    "url": "https://file.pizza/",
+    "category": "file sharing"
+  },
+  {
+    "title": "Public APIs Directory",
+    "url": "https://publicapis.io/",
+    "category": "apis"
+  },
+  {
+    "title": "Free For Dev - Free Services List",
+    "url": "https://free-for.dev/#/?id=web-hosting",
+    "category": "developer tools"
+  },
+  {
+    "title": "Bento Grids - UI Layouts",
+    "url": "https://bentogrids.com/",
+    "category": "ui components"
+  },
+  {
+    "title": "OpenGraph Preview Tool",
+    "url": "https://www.opengraph.xyz/url/https%3A%2F%2Fisakidev.netlify.app%2F",
+    "category": "seo"
+  },
+  {
+    "title": "ConsultaLinux - Linux Q&A",
+    "url": "https://consultalinux.streamlit.app/",
+    "category": "linux"
+  },
+  {
+    "title": "Material 3 Navigation Bar",
+    "url": "https://m3.material.io/components/navigation-bar/overview",
+    "category": "ui components"
+  },
+  {
+    "title": "Convertio - File Converter",
+    "url": "https://convertio.co/es/",
+    "category": "file conversion"
+  },
+  {
+    "title": "useHooks - React Hooks Collection",
+    "url": "https://usehooks.com",
+    "category": "react"
+  },
+  {
+    "title": "Postgres.new - Quick PostgreSQL",
+    "url": "https://postgres.new",
+    "category": "database"
+  },
+  {
+    "title": "Notion - Cosmic Resources",
+    "url": "https://carmenansio.notion.site/Recursos-c-smicos-b76c220d51ec42239830a6c0ae39b2d9",
+    "category": "resources"
+  },
+  {
+    "title": "Firebits - File Storage",
+    "url": "https://firebits.io/users/moises.marquez/items/navigate/01FGQ2D7CJY8X8RG8XQ3GN2E58",
+    "category": "file storage"
+  },
+  {
+    "title": "Rustlang ES - Spanish Community",
+    "url": "https://rustlang-es.org/comunidades",
+    "category": "programming languages"
+  },
+  {
+    "title": "Free Faces - Free Fonts",
+    "url": "https://www.freefaces.gallery/",
+    "category": "fonts"
+  },
+  {
+    "title": "Guía Entrevistas de Programación",
+    "url": "https://github.com/DevCaress/guia-entrevistas-de-programacion",
+    "category": "interview"
+  },
+  {
+    "title": "Lucide - Icon Library",
+    "url": "https://lucide.dev/",
+    "category": "icons"
+  },
+  {
+    "title": "TailwindCSS Buttons",
+    "url": "https://devdojo.com/tailwindcss/buttons#_",
+    "category": "ui components"
+  },
+  {
+    "title": "Flutter Open UI - GitHub",
+    "url": "https://github.com/yunweneric/flutter-open-ui",
+    "category": "ui components"
+  },
+  {
+    "title": "Principles Design",
+    "url": "https://principles.design/",
+    "category": "design"
+  },
+  {
+    "title": "Heroku - Cloud Hosting",
+    "url": "https://www.heroku.com",
+    "category": "hosting"
+  },
+  {
+    "title": "AWS Amplify",
+    "url": "https://aws.amazon.com/es/amplify/?trk=d50f6ab2-1bf2-48b0-8416-bcae7372a461&sc_channel=ps&ef_id=CjwKCAjwnqK1BhBvEiwAi7o0X5-yWXp4RZ7XsNQ4lcLYBLinLSF8UuVMwdfErWvRgVDaQBJe33RjlRoCik0QAvD_BwE:G:s&s_kwcid=AL!4422!3!677908132295!e!!g!!aws%20amplify!20682958065!160067596252&gclid=CjwKCAjwnqK1BhBvEiwAi7o0X5-yWXp4RZ7XsNQ4lcLYBLinLSF8UuVMwdfErWvRgVDaQBJe33RjlRoCik0QAvD_BwE",
+    "category": "hosting"
+  },
+  {
+    "title": "Firebase - Google Cloud",
+    "url": "https://firebase.google.com/?hl=es",
+    "category": "hosting"
+  },
+  {
+    "title": "Netlify - Web Hosting",
+    "url": "https://www.netlify.com",
+    "category": "hosting"
+  },
+  {
+    "title": "Vercel - Web Hosting",
+    "url": "https://www.vercel.com",
+    "category": "hosting"
+  },
+  {
+    "title": "GitHub Pages",
+    "url": "https://pages.github.com",
+    "category": "hosting"
+  },
+  {
+    "title": "HyperUI - Tailwind Components",
+    "url": "https://www.hyperui.dev/",
+    "category": "ui components"
+  },
+  {
+    "title": "Patterns.dev - Design Patterns",
+    "url": "https://www.patterns.dev",
+    "category": "design"
+  },
+  {
+    "title": "Driver.js - Feature Tours",
+    "url": "https://driverjs.com/?ref=dailydev",
+    "category": "ui components"
+  },
+  {
+    "title": "CMDK - Command Menu UI",
+    "url": "https://cmdk.paco.me/",
+    "category": "ui components"
+  },
+  {
+    "title": "Proportio - Aspect Ratio Tool",
+    "url": "https://proportio.app/?utm_content=bufferee549&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
+    "category": "design tools"
+  },
+  {
+    "title": "Swapy - Swap UI Tool",
+    "url": "https://swapy.tahazsh.com/",
+    "category": "ui components"
+  },
+  {
+    "title": "Trello - Libraries Board",
+    "url": "https://trello.com/invite/b/6584fb4b2826dd1749b314c1/ATTIa4753f6dc4a829ca667806d02dfef96124380DEE/libraries",
+    "category": "productivity"
+  },
+  {
+    "title": "TurboRepo - Monorepo Tool",
+    "url": "https://turbo.build/repo/docs/getting-started/installation",
+    "category": "developer tools"
+  },
+  {
+    "title": "Buy Me a Coffee - Support Creators",
+    "url": "https://buymeacoffee.com/",
+    "category": "support"
+  },
+  {
+    "title": "Avvvatars - Avatar Generator",
+    "url": "https://avvvatars.com/",
+    "category": "avatars"
+  },
+  {
+    "title": "UI Avatars - Avatar Generator",
+    "url": "https://eu.ui-avatars.com/",
+    "category": "avatars"
+  },
+  {
+    "title": "Storyset - Free Illustrations",
+    "url": "https://storyset.com/bro",
+    "category": "illustrations"
+  },
+  {
+    "title": "Adobe Color",
+    "url": "https://color.adobe.com/es/",
+    "category": "color tools"
+  },
+  {
+    "title": "Designstripe - Mockups",
+    "url": "https://designstripe.com/mockups/",
+    "category": "mockups"
+  },
+  {
+    "title": "Replit - 100 Days of Python",
+    "url": "https://replit.com/learn/100-days-of-python",
+    "category": "python"
+  },
+  {
+    "title": "Developero - React Solid Example",
+    "url": "https://developero.io/blog/react-solid-example",
+    "category": "react"
+  },
+  {
+    "title": "Medium - Clean Architecture in Node.js",
+    "url": "https://medium.com/@ben.dev.io/clean-architecture-in-node-js-39c3358d46f3",
+    "category": "node.js"
+  },
+  {
+    "title": "DevDocs - API Documentation",
+    "url": "https://devdocs.io/",
+    "category": "documentation"
+  },
+  {
+    "title": "Roadmap.sh - Developer Roadmaps",
+    "url": "https://roadmap.sh/",
+    "category": "learning"
+  },
+  {
+    "title": "Neon - Serverless Postgres",
+    "url": "https://neon.tech/",
+    "category": "database"
+  },
+  {
+    "title": "MagicUI - UI Components",
+    "url": "https://magicui.design/",
+    "category": "ui components"
+  },
+  {
+    "title": "TradingView - Lightweight Charts",
+    "url": "https://www.tradingview.com/lightweight-charts/",
+    "category": "charts"
+  },
+  {
+    "title": "Galileo AI - UI Exploration",
+    "url": "https://www.usegalileo.ai/explore",
+    "category": "ai"
+  },
+  {
+    "title": "Atlassian - Gitflow Workflow",
+    "url": "https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflow-workflow",
+    "category": "git"
+  },
+  {
+    "title": "Miro - Online Whiteboard",
+    "url": "https://miro.com/es/",
+    "category": "productivity"
+  },
+  {
+    "title": "VisBug - Chrome Extension",
+    "url": "https://chromewebstore.google.com/detail/visbug/cdockenadnadldjbbgcallicgledbeoc",
+    "category": "chrome extensions"
+  },
+  {
+    "title": "IT Tools - Online Tools",
+    "url": "https://it-tools.tech/",
+    "category": "developer tools"
+  },
+  {
+    "title": "SwiperJS - Carousel Demos",
+    "url": "https://swiperjs.com/demos",
+    "category": "ui components"
+  },
+  {
+    "title": "Awesome GitHub Profile",
+    "url": "https://zzetao.github.io/awesome-github-profile/",
+    "category": "github"
+  },
+  {
+    "title": "Embla Carousel",
+    "url": "https://www.embla-carousel.com/",
+    "category": "ui components"
+  },
+  {
+    "title": "Shots.so - Screenshots",
+    "url": "https://shots.so/",
+    "category": "screenshots"
+  },
+  {
+    "title": "The Algorithms - Algorithm Collection",
+    "url": "https://the-algorithms.com/es",
+    "category": "algorithms"
+  },
+  {
+    "title": "Flowbite - Tailwind Components",
+    "url": "https://flowbite.com/",
+    "category": "ui components"
+  },
+  {
+    "title": "BG Ibelick - Background Generator",
+    "url": "https://bg.ibelick.com/",
+    "category": "backgrounds"
+  },
+  {
+    "title": "SVG Repo - Free SVGs",
+    "url": "https://www.svgrepo.com/",
+    "category": "svg"
+  },
+  {
+    "title": "Iconfinder - Icon Search",
+    "url": "https://www.iconfinder.com/",
+    "category": "icons"
+  },
+  {
+    "title": "Iconos8 - Heart Icons",
+    "url": "https://iconos8.es/icons/set/heart",
+    "category": "icons"
+  },
+  {
+    "title": "Flaticon - Heart Icons",
+    "url": "https://www.flaticon.es/resultados?word=heart",
+    "category": "icons"
+  },
+  {
+    "title": "Material 3 - Design System",
+    "url": "https://m3.material.io/",
+    "category": "design"
+  },
+  {
+    "title": "UVCanvas - Online Canvas Tool",
+    "url": "https://uvcanvas.com/",
+    "category": "design tools"
+  },
+  {
+    "title": "Responsively App - Responsive Testing",
+    "url": "https://responsively.app/",
+    "category": "testing"
+  },
+  {
+    "title": "TanStack - React Table & More",
+    "url": "https://tanstack.com/",
+    "category": "react"
+  },
+  {
+    "title": "Codewell - Navbar Challenge",
+    "url": "https://www.codewell.cc/challenges/javascript30-navbar--623f19001fa95910c7bf998e",
+    "category": "challenges"
+  },
+  {
+    "title": "Clone Wars - GitHub Repo",
+    "url": "https://github.com/GorvGoyl/Clone-Wars?tab=readme-ov-file",
+    "category": "github"
+  },
+  {
+    "title": "Frontend Checklist",
+    "url": "https://frontendchecklist.io/",
+    "category": "checklist"
+  },
+  {
+    "title": "Zod - TypeScript Schema Validation",
+    "url": "https://zod.dev/",
+    "category": "typescript"
+  },
+  {
+    "title": "Midu.link - Spanish Dev Resources",
+    "url": "https://midu.link/",
+    "category": "resources"
+  },
+  {
+    "title": "Hint Lab - CSS Hints",
+    "url": "https://kushagra.dev/lab/hint/",
+    "category": "css"
+  },
+  {
+    "title": "FormKit Drag and Drop",
+    "url": "https://drag-and-drop.formkit.com/",
+    "category": "ui components"
+  },
+  {
+    "title": "GitHub Profile README Generator",
+    "url": "https://github.com/rahuldkjain/github-profile-readme-generator?tab=readme-ov-file",
+    "category": "github"
+  },
+  {
+    "title": "Rahul DK Jain - Portfolio",
+    "url": "https://rahuldkjain.github.io/",
+    "category": "portfolio"
+  },
+  {
+    "title": "Component Party - Framework Comparison",
+    "url": "https://component-party.dev/",
+    "category": "frameworks"
+  },
+  {
+    "title": "Web.dev - Performance Guide",
+    "url": "https://web.dev/learn/performance?hl=en",
+    "category": "performance"
+  },
+  {
+    "title": "Dev Resources",
+    "url": "https://devresourc.es/",
+    "category": "resources"
+  },
+  {
+    "title": "InspoVault - Design Inspiration",
+    "url": "https://www.inspovault.com/",
+    "category": "inspiration"
+  },
+  {
+    "title": "Curated Design",
+    "url": "https://www.curated.design/",
+    "category": "design"
+  },
+  {
+    "title": "Uiverse - UI Components",
+    "url": "https://uiverse.io/",
+    "category": "ui components"
+  },
+  {
+    "title": "Shadcn UI",
+    "url": "https://ui.shadcn.com/",
+    "category": "ui components"
+  },
+  {
+    "title": "Spline - 3D Design Examples",
+    "url": "https://spline.design/examples",
+    "category": "3d design"
+  },
+  {
+    "title": "TailwindCSS Animations",
+    "url": "https://tailwindcss-animations.vercel.app/",
+    "category": "css"
+  },
+  {
+    "title": "Squoosh - Image Compression",
+    "url": "https://squoosh.app/",
+    "category": "images"
+  },
+  {
+    "title": "Tints.dev - Color Palettes",
+    "url": "https://www.tints.dev/blue/3B82F6",
+    "category": "color tools"
+  },
+  {
+    "title": "Loadership - Loader Configurator",
+    "url": "https://www.loadership.com/#configurator",
+    "category": "ui components"
+  },
+  {
+    "title": "Free Icons",
+    "url": "https://free-icons.github.io/free-icons/",
+    "category": "icons"
+  },
+  {
+    "title": "Learn Git Branching",
+    "url": "https://learngitbranching.js.org/?locale=es_AR",
+    "category": "git"
+  },
+  {
+    "title": "Vaul - Drawer UI",
+    "url": "https://vaul.emilkowal.ski/",
+    "category": "ui components"
+  },
+  {
+    "title": "React Hook Form",
+    "url": "https://react-hook-form.com/",
+    "category": "react"
+  },
+  {
+    "title": "FilePond - File Upload",
+    "url": "https://pqina.nl/filepond/",
+    "category": "file upload"
+  },
+  {
+    "title": "React Day Picker",
+    "url": "https://react-day-picker.js.org/",
+    "category": "react"
+  },
+  {
+    "title": "React Use Animations",
+    "url": "https://react.useanimations.com/",
+    "category": "react"
+  },
+  {
+    "title": "Shell How - Shell Commands",
+    "url": "https://www.shell.how/",
+    "category": "linux"
+  },
+  {
+    "title": "Skill Icons - GitHub",
+    "url": "https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list",
+    "category": "icons"
+  },
+  {
+    "title": "Readme.so - README Editor",
+    "url": "https://readme.so/es/editor",
+    "category": "documentation"
+  },
+  {
+    "title": "Shields.io - Badges",
+    "url": "https://shields.io/",
+    "category": "badges"
+  },
+  {
+    "title": "Mockaroo - Mock Data Generator",
+    "url": "https://www.mockaroo.com/",
+    "category": "data"
+  },
+  {
+    "title": "TailwindFlex - Tailwind UI",
+    "url": "https://tailwindflex.com/",
+    "category": "ui components"
+  },
+  {
+    "title": "MoureDev - Spanish Dev Community",
+    "url": "https://moure.dev/",
+    "category": "community"
+  },
+  {
+    "title": "CSS Loaders",
+    "url": "https://css-loaders.com/",
+    "category": "css"
+  },
+  {
+    "title": "CanInclude - HTML Feature Support",
+    "url": "https://caninclude.glitch.me/",
+    "category": "html"
+  },
+  {
+    "title": "Laws of UX",
+    "url": "https://lawsofux.com/es/",
+    "category": "ux"
+  },
+  {
+    "title": "Web Check - Website Checker",
+    "url": "https://web-check.xyz/",
+    "category": "testing"
+  },
+  {
+    "title": "Lychee CLI - Link Checker",
+    "url": "https://lychee.cli.rs/#/?id=main",
+    "category": "cli tools"
+  },
+  {
+    "title": "Programming Fonts",
+    "url": "https://www.programmingfonts.org/",
+    "category": "fonts"
+  },
+  {
+    "title": "Render.com - Cloud Hosting",
+    "url": "https://render.com/",
+    "category": "hosting"
+  },
+  {
+    "title": "FirstAidGit - Git Help",
+    "url": "https://firstaidgit.io/#/",
+    "category": "git"
+  },
+  {
+    "title": "Colors and Fonts",
+    "url": "https://www.colorsandfonts.com/",
+    "category": "color tools"
+  },
+  {
+    "title": "DaisyUI - Tailwind Components",
+    "url": "https://daisyui.com/",
+    "category": "ui components"
+  },
+  {
+    "title": "Awesome CSS Learning",
+    "url": "https://github.com/micromata/awesome-css-learning?utm_content=buffer04c17&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
+    "category": "css"
+  },
+  {
+    "title": "Tabler Icons",
+    "url": "https://tabler.io/icons",
+    "category": "icons"
+  },
+  {
+    "title": "NextUI - React UI Library",
+    "url": "https://nextui.org/",
+    "category": "react"
+  },
+  {
+    "title": "FullStackOpen - Web Development Course",
+    "url": "https://fullstackopen.com/es/",
+    "category": "learning"
+  },
+  {
+    "title": "Selectors Info",
+    "url": "https://selectors.info/",
+    "category": "css"
+  },
+  {
+    "title": "Instagram - UI Inspiration",
+    "url": "https://www.instagram.com/p/Ct4eXQ8NNgp/?igshid=MTc4MmM1YmI2Ng%3D%3D&img_index=4",
+    "category": "inspiration"
+  },
+  {
+    "title": "Sonner - Toast Notifications",
+    "url": "https://sonner.emilkowal.ski/",
+    "category": "ui components"
+  }
+]

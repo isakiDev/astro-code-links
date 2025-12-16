@@ -1,0 +1,59 @@
+---
+import data from "../data/data.json";
+import Badge from "./Badge.astro";
+
+const categories = Object.groupBy(data, (item) => item.category);
+const categoryNames = Object.keys(categories);
+---
+
+<script>
+  const cardElements = document.querySelectorAll(".card");
+  const badgeElements = document.querySelectorAll(".badge-filter");
+
+  let filteredCategory = new Set();
+
+  badgeElements.forEach((badge) => {
+    badge.addEventListener("click", () => {
+      const categoryName = badge.textContent?.trim();
+
+      if (!categoryName) return;
+
+      if (filteredCategory.has(categoryName)) {
+        filteredCategory.delete(categoryName);
+        badge.classList.remove("is-active");
+      } else {
+        filteredCategory.add(categoryName);
+        badge.classList.add("is-active");
+      }
+
+      if (filteredCategory.size === 0) {
+        cardElements.forEach((card) => {
+          card.classList.remove("hidden");
+        });
+        return;
+      }
+
+      cardElements.forEach((card) => {
+        const cardCategoryName = card.getAttribute("data-category");
+
+        if (!filteredCategory.has(cardCategoryName)) {
+          card.classList.add("hidden");
+          return;
+        }
+
+        card.classList.remove("hidden");
+      });
+    });
+  });
+</script>
+
+<div class="flex justify-center flex-wrap gap-2">
+  {
+    categoryNames.map((category) => (
+      <Badge
+        customClass="hover:cursor-pointer transition duration-200 hover:brightness-85 hover:shadow-sm badge-filter"
+        text={category}
+      />
+    ))
+  }
+</div>
