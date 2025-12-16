@@ -5,7 +5,7 @@ interface Item {
 }
 
 interface OgResponse {
-  title: string
-  image: string
-  description: string
+  title: string | null
+  image: string | null
+  description: string | null
 }
