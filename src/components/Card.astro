@@ -18,12 +18,6 @@ const cleanUrl = `${url.hostname}`;
 >
   <a href={item.url} target="_blank" class="absolute inset-0 z-10"></a>
 
-  <!-- <CardImage client:visible url={item.url}>
-    <span
-      slot="fallback"
-      class="min-w-20 min-h-20 rounded-xl bg-surface-1 animate-pulse"></span>
-  </CardImage> -->
-
   <CardImage client:visible url={item.url} />
 
   <div class="self-start">
