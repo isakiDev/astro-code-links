@@ -1,6 +1,6 @@
 import { useEffect, useState } from "preact/hooks";
 
-import { getOgUrl } from "../utils/getOgUrl";
+import { getOgUrl } from "../utils/getOgUrl.util";
 
 interface Props {
   url: string;
@@ -9,15 +9,20 @@ interface Props {
 export const CardImage = ({ url }: Props) => {
 
   const [og, setOg] = useState<OgResponse | null>(null)
+  const [isLoading, setIsLoading] = useState<boolean>(true);
+
+  const fallbackImage = "https://res.cloudinary.com/dzn3nempv/image/upload/v1765846307/others/Gemini_Generated_Image_j5ekisj5ekisj5ek_fzum3r.png"
 
   useEffect(() => {
+    setIsLoading(true);
+
     getOgUrl(url)
       .then((data) => setOg(data))
-      .catch((error) => console.error("Error fetching OG url:", error)
-      );
+      .catch(() => null)
+      .finally(() => setIsLoading(false));
   }, [url]);
 
-  if (!og?.image) {
+  if (isLoading) {
     return (
       <div class="min-w-20 min-h-20 rounded-xl bg-gray-200 animate-pulse" />
     );
@@ -25,8 +30,8 @@ export const CardImage = ({ url }: Props) => {
 
   return (
     <img
-      src={og?.image}
-      alt={"title"}
+      src={og?.image ?? fallbackImage}
+      alt="Image Preview"
       class="size-20 rounded-xl object-cover opacity-90"
     />
   );
