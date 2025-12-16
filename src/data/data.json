@@ -15,8 +15,8 @@
     "category": "developer tools"
   },
   {
-    "title": "Tailframes Accordion Components",
-    "url": "https://www.tailframes.com/components/accordion",
+    "title": "Tailframes - Tailwind UI Components",
+    "url": "https://www.tailframes.com",
     "category": "ui components"
   },
   {
@@ -346,7 +346,7 @@
   },
   {
     "title": "The Algorithms - Algorithm Collection",
-    "url": "https://the-algorithms.com/es",
+    "url": "https://the-algorithms.com",
     "category": "algorithms"
   },
   {
@@ -658,5 +658,95 @@
     "title": "Sonner - Toast Notifications",
     "url": "https://sonner.emilkowal.ski/",
     "category": "ui components"
+  },
+  {
+    "title": "GetAvataaars - Avatar Generator",
+    "url": "https://getavataaars.com/",
+    "category": "avatars"
+  },
+  {
+    "title": "Unavatar - Avatar Service",
+    "url": "https://unavatar.io/#/?id=quick-start",
+    "category": "avatars"
+  },
+  {
+    "title": "HeadlessX - Headless CMS",
+    "url": "https://github.com/saifyxpro/HeadlessX",
+    "category": "web scraping"
+  },
+  {
+    "title": "Catppuccin - Color Palette",
+    "url": "https://catppuccin.com/",
+    "category": "color tools"
+  },
+  {
+    "title": "MCP for Beginners - Microsoft",
+    "url": "https://github.com/microsoft/mcp-for-beginners",
+    "category": "mcp"
+  },
+  {
+    "title": "Clean Architecture on Frontend",
+    "url": "https://dev.to/bespoyasov/clean-architecture-on-frontend-4311",
+    "category": "architecture"
+  },
+  {
+    "title": "Thiings - Curated Tools",
+    "url": "https://www.thiings.co",
+    "category": "3d design"
+  },
+  {
+    "title": "Big O Cheat Sheet",
+    "url": "https://samwho.dev/big-o/",
+    "category": "algorithms"
+  },
+  {
+    "title": "web.dev - Learn CSS",
+    "url": "https://web.dev/learn/css/",
+    "category": "css"
+  },
+  {
+    "title": "Website Vice - Website Inspiration",
+    "url": "https://websitevice.com",
+    "category": "inspiration"
+  },
+  {
+    "title": "Visualgo - Data Structure Visualizations",
+    "url": "https://visualgo.net",
+    "category": "algorithms"
+  },
+  {
+    "title": "Generative AI for Beginners - Microsoft",
+    "url": "https://microsoft.github.io/generative-ai-for-beginners/#/",
+    "category": "ai"
+  },
+  {
+    "title": "Cloudflare Error Simulator",
+    "url": "https://virt.moe/cferr/editor/",
+    "category": "simulator"
+  },
+  {
+    "title": "VibeVoice - Text-to-Speech",
+    "url": "https://github.com/microsoft/VibeVoice",
+    "category": "ai"
+  },
+  {
+    "title": "Free Programming Books - Spanish",
+    "url": "https://github.com/midudev/libros-programacion-gratis",
+    "category": "books"
+  },
+  {
+    "title": "N8N Workflows - GitHub",
+    "url": "https://zie619.github.io/n8n-workflows/",
+    "category": "automation"
+  },
+  {
+    "title": "TS Diagram - TypeScript Diagrams",
+    "url": "https://tsdiagram.com/",
+    "category": "database"
+  },
+  {
+    "title": "Python Course - Cisco NetAcad",
+    "url": "https://www.netacad.com/es/courses/python-essentials-1",
+    "category": "python"
   }
 ]
