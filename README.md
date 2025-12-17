@@ -7,6 +7,10 @@ La idea es simple: **tener todo lo importante a mano**, bien ordenado y fácil d
 
 ---
 
+![alt text](public/home_screenshot.png)
+
+---
+
 ## ✨ Características
 
 - ⚡ Construido con **Astro**
