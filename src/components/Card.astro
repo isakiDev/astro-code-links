@@ -13,8 +13,9 @@ const cleanUrl = `${url.hostname}`;
 ---
 
 <article
-  class="py-4 px-4 rounded-xl bg-mantle flex gap-4 items-center cursor-pointer transform hover:scale-[1.02] transition-transform duration-200 relative card"
+  class="py-4 px-4 rounded-xl bg-mantle flex gap-4 items-center cursor-pointer transform hover:scale-105 transition-transform duration-200 relative card"
   data-category={item.category}
+  data-title={item.title}
 >
   <a href={item.url} target="_blank" class="absolute inset-0 z-10"></a>
 
