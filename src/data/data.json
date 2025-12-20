@@ -105,11 +105,6 @@
     "category": "react"
   },
   {
-    "title": "Postgres.new - Quick PostgreSQL",
-    "url": "https://postgres.new",
-    "category": "database"
-  },
-  {
     "title": "Firebits - File Storage",
     "url": "https://firebits.io/users/moises.marquez/items/navigate/01FGQ2D7CJY8X8RG8XQ3GN2E58",
     "category": "learning"
@@ -132,6 +127,11 @@
   {
     "title": "Lucide - Icon Library",
     "url": "https://lucide.dev/",
+    "category": "icons"
+  },
+  {
+    "title": "Lucide Animated - Animated Icons",
+    "url": "https://lucide-animated.com",
     "category": "icons"
   },
   {
@@ -202,7 +202,7 @@
   {
     "title": "Proportio - Aspect Ratio Tool",
     "url": "https://proportio.app/?utm_content=bufferee549&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
-    "category": "design tools"
+    "category": "developer tools"
   },
   {
     "title": "Swapy - Swap UI Tool",
@@ -397,7 +397,7 @@
   {
     "title": "Midu.link - Spanish Dev Resources",
     "url": "https://midu.link/",
-    "category": "resources"
+    "category": "learning"
   },
   {
     "title": "Hint Lab - CSS Hints",
@@ -470,11 +470,6 @@
     "category": "developer tools"
   },
   {
-    "title": "Free Icons",
-    "url": "https://free-icons.github.io/free-icons/",
-    "category": "icons"
-  },
-  {
     "title": "Learn Git Branching",
     "url": "https://learngitbranching.js.org/?locale=es_AR",
     "category": "git"
@@ -532,7 +527,7 @@
   {
     "title": "MoureDev - Spanish Dev Community",
     "url": "https://moure.dev/",
-    "category": "resources"
+    "category": "learning"
   },
   {
     "title": "CSS Loaders",
@@ -708,5 +703,135 @@
     "title": "The Simpsons - Free API ",
     "url": "https://thesimpsonsapi.com/",
     "category": "apis"
+  },
+  {
+    "title": "Radix UI - Free Components",
+    "url": "https://www.radix-ui.com",
+    "category": "ui components"
+  },
+  {
+    "title": "Neon",
+    "url": "https://neon.com",
+    "category": "hosting"
+  },
+  {
+    "title": "Better Auth",
+    "url": "https://www.better-auth.com",
+    "category": "authentication"
+  },
+  {
+    "title": "Ready AI – AI for Everyone",
+    "url": "https://readdy.ai",
+    "category": "ai"
+  },
+  {
+    "title": "React Bits",
+    "url": "https://reactbits.dev/",
+    "category": "ui components"
+  },
+  {
+    "title": "Flexbox Froggy - Free Resources for Flexbox",
+    "url": "https://flexboxfroggy.com/",
+    "category": "learning"
+  },
+  {
+    "title": "CSS Grid Garden",
+    "url": "https://cssgridgarden.com/",
+    "category": "learning"
+  },
+  {
+    "title": "Ollama - AI Models",
+    "url": "https://ollama.com/",
+    "category": "ai"
+  },
+  {
+    "title": "Backend Cheatsheet",
+    "url": "https://github.com/cheatsnake/backend-cheats",
+    "category": "learning"
+  },
+  {
+    "title": "System Design Primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "category": "learning"
+  },
+  {
+    "title": "Awesome Node.js",
+    "url": "https://github.com/sindresorhus/awesome-nodejs",
+    "category": "resources"
+  },
+  {
+    "title": "Awesome Backend",
+    "url": "https://github.com/zhashkevych/awesome-backend",
+    "category": "learning"
+  },
+  {
+    "title": "Visualgo",
+    "url": "https://visualgo.net/",
+    "category": "algorithms"
+  },
+  {
+    "title": "CS Vistool",
+    "url": "https://csvistool.com/",
+    "category": "algorithms"
+  },
+  {
+    "title": "Exercism",
+    "url": "https://exercism.io/",
+    "category": "coding"
+  },
+  {
+    "title": "GitMastery",
+    "url": "https://www.gitmastery.me/",
+    "category": "git"
+  },
+  {
+    "title": "Trello",
+    "url": "https://trello.com",
+    "category": "productivity"
+  },
+  {
+    "title": "Free Programming Books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "category": "books"
+  },
+  {
+    "title": "AI Agents for Beginners",
+    "url": "https://microsoft.github.io/ai-agents-for-beginners/",
+    "category": "ai"
+  },
+  {
+    "title": "FreeCodeCamp",
+    "url": "https://freecodecamp.org/",
+    "category": "learning"
+  },
+  {
+    "title": "Cloud Community Free Certifications",
+    "url": "https://github.com/cloudcommunity/Free-Certifications",
+    "category": "resources"
+  },
+  {
+    "title": "Free For Dev",
+    "url": "https://github.com/jixserver/free-for-dev",
+    "category": "resources"
+  },
+  {
+    "title": "JavaScript 30",
+    "url": "https://javascript30.com/",
+    "category": "learning"
+  },
+  {
+    "title": "Luxe UI",
+    "url": "https://www.luxeui.com/",
+    "category": "ui components"
+  },
+  {
+    "title": "SVGL",
+    "url": "https://svgl.app/",
+    "category": "icons"
+  },
+  {
+    "title": "Node.js Best Practices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices/blob/spanish-translation/README.spanish.md",
+    "category": "resources"
   }
 ]
