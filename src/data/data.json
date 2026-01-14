@@ -823,7 +823,37 @@
   },
   {
     "title": "Node.js Best Practices",
-    "url": "https://github.com/goldbergyoni/nodebestpractices/",
+    "url": "https://github.com/goldbergyoni/nodebestpractices/blob/spanish-translation/README.spanish.md",
     "category": "resources"
+  },
+  {
+    "title": "SkillsMP",
+    "url": "https://skillsmp.com/es",
+    "category": "learning"
+  },
+  {
+    "title": "Node.js Best Practices Spanish",
+    "url": "https://github.com/goldbergyoni/nodebestpractices/blob/spanish-translation/README.spanish.md",
+    "category": "resources"
+  },
+  {
+    "title": "FossFLOW",
+    "url": "https://github.com/stan-smith/FossFLOW",
+    "category": "tools"
+  },
+  {
+    "title": "Devtalles Interactive Exercises",
+    "url": "https://github.com/DevTalles-corp/devtalles-interactive-web-development-excercises/tree/main",
+    "category": "learning"
+  },
+  {
+    "title": "AI Template",
+    "url": "https://www.aitmpl.com/agents",
+    "category": "ai"
+  },
+  {
+    "title": "Unlighthouse",
+    "url": "https://unlighthouse.dev/",
+    "category": "tools"
   }
 ]
